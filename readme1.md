@@ -5,7 +5,8 @@ Login: xborda01
 ### Hodnotenie
 5.5/7
 - 60% implementácia (max 6b) 
-- docs 
+- docs 0,81b (max 1b)
+- rozsirenie NVP - použitie OOP navrhového vzoru Visitor + popis kde, ako a prečo 0,9b (bonus max 1b)
 
 ### 1. Implementácia 
 
