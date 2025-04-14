@@ -1,7 +1,0 @@
-class Main : Object {
-            run [|
-                x := y.
-                x := y plus: 1.
-                y := 1.
-            ]
-        }
